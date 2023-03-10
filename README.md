@@ -2,4 +2,7 @@
 
 <h2>Injection des dépendances par instanciation statique :</h2>
 </br>
-![screenshot 1](https://freeimage.host/i/HXub9TJ?raw=true)
+<img
+  src="https://freeimage.host/i/HXub9TJ?raw=true"
+  alt="Screenshot 1"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
